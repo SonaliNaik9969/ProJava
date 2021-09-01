@@ -1,0 +1,5 @@
+package static_poly;
+//multiple constructors in same class with diff. parameters.
+public class Construct_overloading {
+
+}

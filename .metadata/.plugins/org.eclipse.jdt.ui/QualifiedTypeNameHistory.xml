@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="basic.Single_inherite"/>
+    <fullyQualifiedTypeName name="single_Inheritance.Data"/>
+    <fullyQualifiedTypeName name="single_Inheritance.Single_Subtract"/>
+    <fullyQualifiedTypeName name="single_Inheritance.Single_Add"/>
+    <fullyQualifiedTypeName name="single_Inheritance.Sum"/>
+    <fullyQualifiedTypeName name="single_Inheritance.Subtract"/>
+    <fullyQualifiedTypeName name="single_Inheritance.Data1"/>
+    <fullyQualifiedTypeName name="single_Inheritance.Multi"/>
+    <fullyQualifiedTypeName name="multiple_Inheritance.person"/>
+    <fullyQualifiedTypeName name="multiple_Inheritance.Account"/>
+    <fullyQualifiedTypeName name="multiple_Inheritance.Admin"/>
+    <fullyQualifiedTypeName name="multiple_Inheritance.Volume"/>
+    <fullyQualifiedTypeName name="hierarchical_Inheritance.Typist"/>
+    <fullyQualifiedTypeName name="final_class.Hemisphere"/>
+    <fullyQualifiedTypeName name="abstract_class.Sphere"/>
+    <fullyQualifiedTypeName name="abstract_class.Hemisphere"/>
+    <fullyQualifiedTypeName name="abstract_class.Circle"/>
+    <fullyQualifiedTypeName name="abstract_class.Rectangle"/>
+    <fullyQualifiedTypeName name="abstract_class.Triangle"/>
+    <fullyQualifiedTypeName name="abstract_class.Square"/>
+    <fullyQualifiedTypeName name="interface_p.Sphere"/>
+    <fullyQualifiedTypeName name="interface_p.Hemisphere"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="interface_p.Square"/>
+    <fullyQualifiedTypeName name="static_poly.Rectangle"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="static_poly.Area"/>
+    <fullyQualifiedTypeName name="static_poly.Volume"/>
+    <fullyQualifiedTypeName name="static_poly.Child"/>
+    <fullyQualifiedTypeName name="dynamic_poly.Parent"/>
+    <fullyQualifiedTypeName name="dynamic_poly.Data"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="dynamic_poly.Child"/>
+    <fullyQualifiedTypeName name="basic.Employee"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,24 @@
+package static_poly;
+//multiple constructors in same class with diff. parameters.
+
+class Rectangle
+{
+	private int l,b;
+	public Rectangle()
+	{
+		l=b=10;
+	}
+	public Rectangle(int x)
+	{
+		l=b=x;
+	}
+	public Rectangle(int x, int y)
+	{
+		l=x;
+		b=y;
+	}
+}
+
+public class Construct_overloading {
+
+}

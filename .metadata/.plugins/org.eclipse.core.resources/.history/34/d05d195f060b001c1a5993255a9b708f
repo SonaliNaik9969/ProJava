@@ -1,0 +1,9 @@
+package basic;
+
+public class Employee {
+	
+	private Long id;
+	private String name;
+	private Integer Salary;
+
+}

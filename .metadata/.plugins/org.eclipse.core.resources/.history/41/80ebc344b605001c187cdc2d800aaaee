@@ -1,0 +1,26 @@
+package static_poly;
+
+class Volume
+{
+	private int x,y,z;   //
+	public float volume(float l)
+	{
+		return l*l*l;
+	}
+	public float volume(float r,float h)
+	{
+		return 3.14f*r*r*h;
+	}
+	public float volume(float l,float b,float h)
+	{
+		return l*b*h;
+	}
+}
+public class Meth_overloading1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

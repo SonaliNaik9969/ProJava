@@ -1,0 +1,24 @@
+package dynamic_poly;
+
+class Parent1
+{
+	public Parent1(int a)
+	{
+		System.out.println("Constructor of Parent Class :"+a);
+	}
+	public void display(int x)
+	{
+		System.out.println("X :"+x);
+	}
+}
+class Child1 extends Parent1
+{
+	public Child1()
+	{
+		super(a);
+		System.out.println("Constructor of Child Class :"+a);
+	}
+}
+public class Super_keyword {
+
+}

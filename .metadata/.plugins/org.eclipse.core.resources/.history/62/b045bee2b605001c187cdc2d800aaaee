@@ -1,0 +1,10 @@
+package static_poly;
+
+public class Meth_overloading2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,17 @@
+package static_poly;
+
+class Area
+{
+	private float x,y,z;
+	private float area(float r)
+	{
+		return 3.14f*r*r;
+	}
+	public float area(float l,float b)
+	{
+		
+	}
+}
+public class Meth_overloading {
+
+}

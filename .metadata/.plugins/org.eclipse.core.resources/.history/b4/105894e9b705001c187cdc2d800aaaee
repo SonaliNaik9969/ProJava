@@ -1,0 +1,10 @@
+package static_poly;
+//multiple methods with same name in the same class or derived class with diff. parameters.
+public class Meth_overloading2 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
